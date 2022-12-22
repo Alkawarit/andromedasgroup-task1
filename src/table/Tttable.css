@@ -1,0 +1,16 @@
+thead  tr{
+    background-color:grey ;
+    color:rgba(47, 10, 211, 0.904);
+    border-color: rgb(150, 105, 255);
+    /*box-shadow: 10px 5px chartreuse;*/
+    
+
+}
+
+button{
+    background-color:darkorange;
+    padding:5px;
+    Margin:5px;
+    font-weight: bold;
+    cursor: pointer;
+}
